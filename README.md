@@ -1,6 +1,6 @@
 # swts_ffip
 
-This repository contains the code and resources for the analysis of SWTS II (Species-Wide Threat Survey) using various occupancy models. The analysis includes covariate processing and visualization of results to assess species distribution and threat patterns in relation to biophysical and anthropogenic factors.
+This repository contains the code and resources for the analysis of SWTS II using various occupancy models. The analysis includes covariate processing and visualization of results to assess species distribution and threat patterns in relation to biophysical and anthropogenic factors.
 
 **Note:** This repository is for exercise purposes only. The official analysis will be conducted at a later stage.
 
